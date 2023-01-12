@@ -1,5 +1,5 @@
 {
-  "name": "react-mathquill",
+  "name": "@alchemiesolns/react-mathquill",
   "version": "1.0.2",
   "description": "React component wrapper for Mathquill",
   "main": "index.js",
